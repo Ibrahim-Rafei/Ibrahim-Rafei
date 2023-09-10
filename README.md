@@ -6,20 +6,23 @@ I'm a passionate Flutter developer with a strong foundation in web technologies 
 
 ## 🚀 Skills
 
-- Flutter
+- Dart, Flutter, Firebase
+- Laravel , PHP
+- Selenium, PlayWrite, TestNG, Cucumber, Jenkins 
 - HTML, CSS, JavaScript
-- Selenium, TestNG, Cucumber, Playwright
 - SEO
 
 
 
 ## 🔭 Current Focus
 
-I'm currently working on [specific projects or areas of interest you're currently focusing on].
+I'm currently dedicating my full attention to my university studies. This is where I'm channeling my efforts and energy to excel in my academic pursuits.
+
 
 ## 🌱 Learning
 
-I'm currently learning [mention any new technologies or skills you're currently learning].
+I'm diving deep into Testing, enhancing my expertise in this area.
+
 
 ## 👯‍♂️ Looking to collaborate?
 
@@ -33,5 +36,5 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ## 🌐 Check out my work
 
-- [GitHub Repositories](https://github.com/yourusername)
+- [GitHub Repositories](https://github.com/Ibrahim-Rafei)
 - [Portfolio Website](https://www.yourwebsite.com/portfolio)
