@@ -4,7 +4,7 @@
 
 I'm a passionate Flutter developer with a strong foundation in web technologies including HTML, CSS, and JavaScript. My experience also extends to SEO, where I've successfully optimized websites for improved search engine rankings. In addition, I have expertise in automated testing using frameworks like Selenium Playwrite.
 
-# Skills
+## 🚀 Skills
 
 - Flutter
 - HTML, CSS, JavaScript
