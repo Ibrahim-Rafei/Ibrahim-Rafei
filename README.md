@@ -35,4 +35,4 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 - Personal Website: [Your Website](https://www.yourwebsite.com)
-- 
+
