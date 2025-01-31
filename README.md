@@ -22,8 +22,7 @@ I'm currently dedicating my full attention to my university studies. This is whe
 
 ## 🌱 Learning
 
-I'm diving deep into Testing, enhancing my expertise in this area.
-
+I'm currently studying at TU Berlin to complete my academic journey.
 
 ## 👯‍♂️ Looking to collaborate?
 
